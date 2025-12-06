@@ -1,0 +1,14 @@
+/Users/denis/ConfigurationLanguage1/bin/Debug/net9.0/ConfigurationLanguage1
+/Users/denis/ConfigurationLanguage1/bin/Debug/net9.0/ConfigurationLanguage1.deps.json
+/Users/denis/ConfigurationLanguage1/bin/Debug/net9.0/ConfigurationLanguage1.runtimeconfig.json
+/Users/denis/ConfigurationLanguage1/bin/Debug/net9.0/ConfigurationLanguage1.dll
+/Users/denis/ConfigurationLanguage1/bin/Debug/net9.0/ConfigurationLanguage1.pdb
+/Users/denis/ConfigurationLanguage1/obj/Debug/net9.0/ConfigurationLanguage1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis/ConfigurationLanguage1/obj/Debug/net9.0/ConfigurationLanguage1.AssemblyInfoInputs.cache
+/Users/denis/ConfigurationLanguage1/obj/Debug/net9.0/ConfigurationLanguage1.AssemblyInfo.cs
+/Users/denis/ConfigurationLanguage1/obj/Debug/net9.0/ConfigurationLanguage1.csproj.CoreCompileInputs.cache
+/Users/denis/ConfigurationLanguage1/obj/Debug/net9.0/ConfigurationLanguage1.dll
+/Users/denis/ConfigurationLanguage1/obj/Debug/net9.0/refint/ConfigurationLanguage1.dll
+/Users/denis/ConfigurationLanguage1/obj/Debug/net9.0/ConfigurationLanguage1.pdb
+/Users/denis/ConfigurationLanguage1/obj/Debug/net9.0/ConfigurationLanguage1.genruntimeconfig.cache
+/Users/denis/ConfigurationLanguage1/obj/Debug/net9.0/ref/ConfigurationLanguage1.dll

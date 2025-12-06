@@ -1,0 +1,10 @@
+result = 'test'
+result = 200
+[server]
+host = 'localhost'
+port = '200'
+debug = 'true'
+[main_server]
+host = 'localhost'
+kontent = '1337'
+debug = 'false'
