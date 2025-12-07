@@ -9,6 +9,7 @@ MyConfigConverter
 6. Фильтрация комментариев
 7. Валидация входных и выходных путей
 8. Логирование необработанных строк Требования
+
 .NET 6.0 или выше
 Операционная система: Windows/Linux/macOS Использование
 Запустите программу: dotnet run --project ConfigurationLanguage1.csproj или dotnet run -- --input C:\Путь\Входных\Данных\Данные.txt --output C:\Путь\Выходных\Данных\Данные2.toml
